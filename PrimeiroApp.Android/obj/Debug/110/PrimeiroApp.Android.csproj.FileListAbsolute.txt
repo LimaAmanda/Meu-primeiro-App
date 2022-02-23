@@ -1,0 +1,1357 @@
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\build.props
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\adb.props
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.AssemblyReference.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res.flag
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\44\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\45\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\51\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\54\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\55\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\62\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\63\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\67\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\68\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\70\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\71\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\72\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\73\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\75\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\76\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\79\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\87\jl\files.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.txt
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.cs.flag
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CoreCompileInputs.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.apk
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.aab
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.aab
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk.idsig
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CopyComplete
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apk
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\base.zip
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.aab
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apks
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\styles.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\colors.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\uploadflags.txt
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\resolvedassemblies.hash
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Java.Interop.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\netstandard.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86_64.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.shared.inc
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\AndroidManifest.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\AndroidManifest.xml
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\__environment__.txt
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\machine.config
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\mono.android.jar
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\static.flag
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\buildid.txt
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.arm64-v8a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86_64.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\browser\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\core\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\media\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\transition\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64cd36486350528818\MainActivity.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\packaged_resources
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\companyname\primeiroapp\R.java
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86_64.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.arm64-v8a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86_64.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\classes.dex
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+D:\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.apk
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.aab
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.aab
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk.idsig
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\build.props
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\adb.props
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.AssemblyReference.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res.flag
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.txt
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.cs.flag
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CoreCompileInputs.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CopyComplete
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apk
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\base.zip
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.aab
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apks
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\styles.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\colors.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\uploadflags.txt
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\resolvedassemblies.hash
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86_64.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.shared.inc
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\AndroidManifest.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\AndroidManifest.xml
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\__environment__.txt
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\machine.config
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\mono.android.jar
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\static.flag
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\buildid.txt
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.arm64-v8a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86_64.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\browser\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\core\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\media\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\transition\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64cd36486350528818\MainActivity.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\packaged_resources
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\src\com\companyname\primeiroapp\R.java
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\typemaps.x86_64.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.arm64-v8a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\environment.x86_64.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\classes.dex
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.apk
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp.aab
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.aab
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\com.companyname.primeiroapp-Signed.apk.idsig
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\bin\Debug\PrimeiroApp.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\build.props
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\adb.props
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.AssemblyReference.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res.flag
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.txt
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\R.cs.flag
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CoreCompileInputs.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.csproj.CopyComplete
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apk
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\base.zip
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.aab
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\bin\com.companyname.primeiroapp.apks
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\styles.xml
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\values\colors.xml
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\uploadflags.txt
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\resolvedassemblies.hash
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.Android.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\PrimeiroApp.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll

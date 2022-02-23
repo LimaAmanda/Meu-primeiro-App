@@ -1,0 +1,45 @@
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+D:\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\ref\PrimeiroApp.dll
+D:\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\ref\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
+C:\Etec\Mobile 2022\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\refint\PrimeiroApp.dll
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
+C:\Etec\Mobile 2022 - PROGRAMAÇÃO DE APLICATIVOS MOBILE - II\Mobile II\Mobile II\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
